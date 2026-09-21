@@ -3,7 +3,7 @@ High-Performance V12 Engine – 3D CAD Modeling &amp; Visualization
 
 # High-Performance V12 Engine – 3D CAD Modeling & Visualization
 
-![High-Performance V12 Engine](v12-engine.jpg.jpeg)
+![High-Performance V12 Engine](portfolio-image.jpg)
 
 ## Project Overview
 
